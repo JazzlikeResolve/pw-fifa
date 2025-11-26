@@ -1,7 +1,5 @@
 PW-Fifa - Playwright Test Automation for FIFA Website
-https://img.shields.io/badge/Playwright-2E8555?style=for-the-badge&logo=playwright&logoColor=white
-https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://www.fifa.com/en
 
 A comprehensive test automation suite for the FIFA website using Playwright and TypeScript.
 
