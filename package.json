@@ -1,0 +1,28 @@
+{
+  "name": "pw-fifa",
+  "version": "1.0.0",
+  "description": "Playwright tests for FIFA website",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:chrome": "npx playwright test --project=chromium",
+    "test:firefox": "npx playwright test --project=firefox",
+    "test:webkit": "npx playwright test --project=webkit",
+    "test:debug": "npx playwright test --debug",
+    "test:ui": "npx playwright test --ui",
+    "test:report": "npx playwright test --reporter=html",
+    "test:single": "npx playwright test example.spec.ts",
+    "show-report": "npx playwright show-report",
+    "codegen": "npx playwright codegen",
+    "install-browsers": "npx playwright install"
+  },
+  "keywords": ["playwright", "testing", "fifa", "automation"],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^24.10.1",
+    "typescript": "^5.9.3"
+  }
+}
