@@ -1,3 +1,5 @@
+This is a website that is continously changing, if the test suite or tests are not passing it is due to the updates they have made. 
+
 PW-Fifa - Playwright Test Automation for FIFA Website
 https://www.fifa.com/en
 
